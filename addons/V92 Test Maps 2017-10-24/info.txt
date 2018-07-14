@@ -1,0 +1,15 @@
+"AddonInfo"
+{
+	"name" "V92 Test Maps 2017-10-24"
+	"author_name" "Author Name"
+	"info" "
+{
+	"description": "Description",
+	"type": "map",
+	"tags": 
+	[
+		"fun",
+		"scenic"
+	]
+}"
+}
